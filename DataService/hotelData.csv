@@ -1,0 +1,1001 @@
+﻿First Name;Family Name;Country;Room Type;Days Rented;Season;Price;Id
+Liam;Nguyen;China;Spa Executive;1;mid;2577;1
+Zhang;Rossi;Mexico;Grand Lit;3;low;3360;2
+Carlos;Khan;China;Standard Single;5;high;6420;3
+Hiroshi;Kim;Russia;LOFT Suite;2;mid;6922;4
+Muhammad;Martinez;Vietnam;Suite;4;mid;12784;5
+Lucas;Khan;Australia;Standard Double;10;high;16700;6
+Hiroshi;Nguyen;Australia;Suite;1;low;2522;7
+Santiago;Schneider;Canada;LOFT Suite;5;low;15995;8
+Santiago;Khan;Nigeria;Standard Double;2;low;2530;9
+Lucas;Garcia;Spain;Standard Double;9;mid;14400;10
+Maria;Rossi;Japan;Grand Lit;4;high;6064;11
+Chen;Garcia;Spain;Grand Lit;7;high;12096;12
+Maria;Silva;India;Junior Suite;5;mid;10020;13
+Sara;Garcia;Italy;Standard Single;6;high;7452;14
+Isabella;Johansson;Spain;Spa Executive;3;high;7935;15
+Carlos;Garcia;United Kingdom;Standard Single;8;low;7272;16
+Carlos;Hassan;Canada;LOFT Suite;6;high;22686;17
+Ingrid;Ivanov;Russia;Grand Lit;9;mid;10944;18
+Fatima;Nguyen;Vietnam;LOFT Suite;1;low;3151;19
+David;Patel;Mexico;Standard Double;2;low;2432;20
+Elena;Müller;India;Superior Double;3;low;4389;21
+Lucas;Smith;Nigeria;Standard Single;7;high;10087;22
+Santiago;Dubois;Egypt;LOFT Suite;2;high;7934;23
+John;Nguyen;France;Standard Double;6;low;7734;24
+Aisha;Khan;India;Junior Suite;5;low;10915;25
+Ingrid;Khan;Italy;Suite;7;high;21315;26
+Lucas;Martinez;South Korea;Grand Lit;9;low;9963;27
+Olivia;Rossi;Vietnam;LOFT Suite;6;low;19524;28
+Aisha;Sato;Pakistan;Standard Double;8;mid;12072;29
+Fatima;Martinez;Mexico;Standard Single;8;mid;9272;30
+Santiago;Rossi;Brazil;Junior Suite;2;high;4876;31
+Aisha;Dubois;Japan;Standard Single;6;low;5526;32
+Ingrid;Hassan;India;Suite;8;high;24080;33
+Isabella;Johansson;South Korea;Standard Single;7;mid;7441;34
+John;Brown;Nigeria;Junior Suite;10;mid;21200;35
+Zhang;Brown;Sweden;Spa Executive;1;high;2512;36
+Hiroshi;Kim;Sweden;Superior Double;6;low;8790;37
+Lucas;Müller;Germany;Superior Double;6;mid;9192;38
+Elena;Smith;Canada;Junior Suite;10;low;20510;39
+Ingrid;Yamamoto;Spain;Grand Lit;5;mid;6850;40
+Zhang;Garcia;India;Junior Suite;5;mid;10115;41
+Santiago;Johansson;Spain;Standard Single;10;low;9720;42
+Carlos;Nguyen;Japan;Junior Suite;1;high;2498;43
+Liam;Sato;Vietnam;Standard Single;4;mid;4832;44
+Santiago;Khan;Australia;Spa Executive;4;low;8572;45
+David;Johansson;United Kingdom;Superior Double;1;low;1489;46
+Hiroshi;Garcia;South Korea;LOFT Suite;10;low;34260;47
+Carlos;Kim;Italy;Junior Suite;7;low;15295;48
+Fatima;Martinez;Japan;Junior Suite;1;mid;2094;49
+Fatima;Brown;China;Junior Suite;8;mid;18184;50
+Sophia;Smith;India;Suite;9;mid;26100;51
+Olivia;Khan;Pakistan;Grand Lit;2;low;2720;52
+Carlos;Müller;India;Superior Double;6;low;8658;53
+Isabella;Yamamoto;Pakistan;Spa Executive;3;mid;6636;54
+John;Martinez;United Kingdom;Grand Lit;8;mid;10792;55
+Zhang;Patel;Mexico;Spa Executive;1;mid;2523;56
+Ahmed;Müller;Italy;Suite;6;mid;17934;57
+Muhammad;Nguyen;Nigeria;Standard Double;9;mid;13851;58
+Ahmed;Garcia;Canada;Junior Suite;8;low;15456;59
+Liam;Brown;Spain;Grand Lit;9;high;13275;60
+David;Kim;Russia;Grand Lit;1;low;1149;61
+John;Johansson;Russia;Grand Lit;1;low;1299;62
+Elena;Johansson;Russia;Grand Lit;8;high;12288;63
+Elena;Khan;Canada;LOFT Suite;9;low;27918;64
+Elena;Silva;Brazil;Grand Lit;7;high;11872;65
+Isabella;Martinez;Australia;Superior Double;2;mid;3814;66
+Elena;Johansson;Nigeria;Standard Double;1;high;1952;67
+Olivia;Silva;Australia;Standard Double;8;mid;12368;68
+David;Khan;Nigeria;Superior Double;8;mid;12160;69
+Fatima;Rossi;Egypt;Junior Suite;2;mid;4434;70
+Fatima;Khan;Sweden;Standard Double;5;low;7315;71
+Sophia;Johansson;United States;Suite;3;high;9087;72
+Maria;Patel;United States;Standard Double;3;low;4740;73
+John;Silva;Sweden;LOFT Suite;2;mid;6532;74
+Chen;Schneider;Japan;Standard Double;1;low;1359;75
+Lucas;Rossi;Nigeria;Grand Lit;10;mid;14710;76
+Sophia;Yamamoto;South Korea;Standard Single;2;low;1824;77
+Ingrid;Nguyen;United States;Suite;2;high;6090;78
+Aisha;Ivanov;United Kingdom;Suite;5;low;13515;79
+Muhammad;Garcia;India;Junior Suite;10;mid;22920;80
+Muhammad;Sato;United Kingdom;Standard Single;4;low;3752;81
+Sara;Sato;China;Suite;3;high;10317;82
+Hiroshi;Hassan;France;Standard Double;5;high;8600;83
+Fatima;Garcia;India;Grand Lit;9;high;12816;84
+Olivia;Patel;Pakistan;Standard Double;9;low;13689;85
+Ingrid;Silva;Mexico;Junior Suite;8;low;15696;86
+Aisha;Kim;Canada;Standard Single;4;low;4512;87
+Aisha;Johansson;China;LOFT Suite;1;mid;3764;88
+Lucas;Smith;Sweden;Standard Single;3;low;3243;89
+Isabella;Müller;France;Grand Lit;3;high;4329;90
+Santiago;Johansson;Brazil;Junior Suite;9;high;19935;91
+Ahmed;Khan;Sweden;Superior Double;1;high;1864;92
+Hiroshi;Johansson;China;Suite;9;high;30105;93
+Ahmed;Sato;South Korea;Junior Suite;7;high;17143;94
+Isabella;Schneider;Vietnam;Standard Single;4;mid;4132;95
+Ingrid;Lee;Russia;Suite;10;mid;30490;96
+Ingrid;Rossi;Germany;Standard Double;8;mid;10536;97
+Zhang;Nguyen;Germany;LOFT Suite;8;high;30480;98
+Santiago;Khan;Japan;Grand Lit;8;mid;9808;99
+Elena;Sato;China;Suite;7;mid;20356;100
+Chen;Dubois;Egypt;Spa Executive;8;low;18480;101
+Carlos;Rossi;Russia;Suite;10;high;33910;102
+Sara;Müller;Russia;Standard Double;3;mid;4704;103
+Lucas;Garcia;Canada;Standard Single;4;high;5248;104
+Aisha;Khan;Sweden;Junior Suite;6;high;13236;105
+Muhammad;Smith;Vietnam;Suite;3;mid;9393;106
+Santiago;Khan;Germany;Standard Single;4;low;3952;107
+Ingrid;Smith;United States;Spa Executive;2;high;5090;108
+John;Kim;Nigeria;Standard Double;4;high;6732;109
+David;Khan;Italy;Superior Double;2;low;2800;110
+Maria;Khan;Mexico;Grand Lit;2;high;3216;111
+David;Silva;Vietnam;Suite;2;high;6596;112
+Lucas;Patel;United States;Suite;6;mid;16254;113
+Liam;Martinez;United States;Standard Single;6;low;5928;114
+Elena;Olsen;United Kingdom;Junior Suite;1;low;2104;115
+Carlos;Müller;China;Standard Double;10;mid;13260;116
+Chen;Khan;Japan;Junior Suite;4;low;7536;117
+Elena;Kim;India;Standard Single;10;mid;11730;118
+Liam;Brown;India;Grand Lit;2;low;2460;119
+Liam;Yamamoto;Sweden;Standard Single;7;mid;8554;120
+Muhammad;Müller;Spain;Superior Double;7;mid;13447;121
+Ahmed;Johansson;Pakistan;Spa Executive;8;mid;20384;122
+Fatima;Sato;India;Spa Executive;2;high;5440;123
+Zhang;Kim;Mexico;Superior Double;6;low;9864;124
+Sophia;Sato;Italy;Superior Double;2;low;3310;125
+Liam;Olsen;Spain;Junior Suite;2;mid;4440;126
+Ahmed;Yamamoto;Mexico;Superior Double;1;mid;1966;127
+Sara;Khan;Vietnam;Standard Single;5;low;5685;128
+Isabella;Olsen;Germany;Superior Double;5;mid;9640;129
+Elena;Silva;Spain;Junior Suite;2;mid;4118;130
+Olivia;Olsen;Pakistan;Junior Suite;3;low;5541;131
+David;Brown;France;Spa Executive;5;high;12505;132
+Ingrid;Yamamoto;South Korea;Suite;1;high;3068;133
+Aisha;Rossi;Japan;Spa Executive;6;mid;13290;134
+Fatima;Ivanov;Vietnam;Superior Double;8;high;15416;135
+Maria;Lee;China;Superior Double;4;mid;7524;136
+Muhammad;Nguyen;United States;Spa Executive;1;high;2606;137
+Muhammad;Martinez;United Kingdom;Spa Executive;6;mid;14238;138
+Sara;Rossi;Russia;Grand Lit;10;high;14200;139
+Sophia;Kim;South Korea;Standard Single;4;high;5304;140
+Aisha;Silva;Japan;Junior Suite;10;low;19980;141
+Santiago;Silva;Sweden;Standard Double;8;high;13480;142
+Chen;Kim;United States;LOFT Suite;8;low;24816;143
+Aisha;Nguyen;China;Spa Executive;6;low;14874;144
+Muhammad;Yamamoto;Italy;Standard Double;2;mid;3208;145
+Isabella;Lee;Italy;Standard Single;2;low;2144;146
+Isabella;Rossi;Canada;Grand Lit;1;mid;1391;147
+Liam;Dubois;China;Junior Suite;7;low;13293;148
+Chen;Smith;Australia;Spa Executive;2;low;4364;149
+Chen;Nguyen;Vietnam;Spa Executive;1;high;2606;150
+Liam;Olsen;Mexico;Standard Double;6;low;7782;151
+Carlos;Silva;Brazil;Superior Double;3;low;5100;152
+Elena;Kim;South Korea;Suite;8;low;21296;153
+Aisha;Johansson;India;LOFT Suite;3;mid;9867;154
+Fatima;Hassan;Egypt;Suite;5;mid;15415;155
+Muhammad;Silva;Australia;Spa Executive;10;high;26210;156
+John;Rossi;Italy;LOFT Suite;2;low;6830;157
+John;Hassan;United States;Grand Lit;1;low;1122;158
+Aisha;Kim;China;Suite;9;high;28359;159
+Isabella;Smith;Vietnam;Suite;3;mid;8454;160
+Elena;Smith;South Korea;Spa Executive;8;low;16776;161
+Elena;Kim;Brazil;Spa Executive;8;low;19424;162
+Liam;Rossi;Sweden;Superior Double;7;high;14140;163
+John;Khan;China;Junior Suite;6;high;13434;164
+Liam;Yamamoto;Nigeria;Standard Single;5;low;5825;165
+Isabella;Müller;Russia;Spa Executive;3;high;7614;166
+Aisha;Rossi;Spain;Standard Single;3;low;3087;167
+Muhammad;Sato;Egypt;Standard Single;8;mid;9792;168
+Muhammad;Johansson;China;Standard Single;7;low;7756;169
+Sara;Khan;India;Spa Executive;2;high;5590;170
+Sophia;Rossi;Spain;Superior Double;6;high;11538;171
+Maria;Martinez;Sweden;LOFT Suite;1;high;3654;172
+Olivia;Patel;Spain;Grand Lit;4;high;5912;173
+Hiroshi;Smith;Japan;Grand Lit;5;low;6580;174
+Maria;Ivanov;India;Standard Double;1;low;1410;175
+Fatima;Olsen;Vietnam;Standard Double;6;high;11730;176
+Ahmed;Brown;Canada;Suite;1;high;3224;177
+John;Garcia;South Korea;Junior Suite;7;low;13293;178
+Elena;Johansson;Canada;Grand Lit;9;high;16065;179
+Santiago;Smith;Pakistan;LOFT Suite;6;mid;19362;180
+Maria;Khan;Brazil;Grand Lit;3;mid;4341;181
+Ingrid;Schneider;Vietnam;Junior Suite;6;mid;12300;182
+David;Khan;Germany;Standard Double;5;mid;6805;183
+Fatima;Sato;Nigeria;Standard Single;7;low;7497;184
+Fatima;Yamamoto;Australia;Suite;2;low;5602;185
+Fatima;Brown;United Kingdom;Suite;6;mid;17892;186
+Ahmed;Sato;United Kingdom;Standard Double;10;mid;14930;187
+Ahmed;Rossi;Australia;Junior Suite;2;mid;4518;188
+Elena;Ivanov;India;Suite;6;mid;18378;189
+Sara;Müller;Canada;Grand Lit;9;high;13779;190
+Ingrid;Olsen;France;Spa Executive;5;mid;11335;191
+Fatima;Khan;Spain;Standard Double;7;mid;9786;192
+Lucas;Kim;United States;Junior Suite;9;mid;20187;193
+Ingrid;Dubois;Vietnam;Junior Suite;2;low;3624;194
+Aisha;Silva;Canada;Standard Single;8;low;8400;195
+Carlos;Silva;Russia;Grand Lit;6;high;8586;196
+Hiroshi;Smith;Mexico;Junior Suite;9;low;17154;197
+Ingrid;Olsen;France;LOFT Suite;5;high;18900;198
+Muhammad;Silva;South Korea;Superior Double;8;high;16568;199
+Muhammad;Smith;France;Superior Double;4;mid;6676;200
+Muhammad;Ivanov;Australia;Standard Double;6;low;7860;201
+Maria;Rossi;India;Spa Executive;5;low;12160;202
+John;Smith;Sweden;Superior Double;7;low;9870;203
+Zhang;Patel;Brazil;Spa Executive;5;mid;12750;204
+Sara;Hassan;China;Standard Double;3;mid;4077;205
+Aisha;Silva;India;Junior Suite;6;high;14688;206
+Hiroshi;Johansson;United Kingdom;Grand Lit;1;high;1753;207
+Hiroshi;Ivanov;China;Grand Lit;7;mid;9947;208
+Maria;Smith;Australia;Standard Single;10;low;11710;209
+Ingrid;Yamamoto;Sweden;Grand Lit;6;mid;9534;210
+Carlos;Kim;Brazil;Grand Lit;6;mid;8400;211
+David;Martinez;China;Junior Suite;6;mid;12792;212
+Lucas;Khan;Australia;Grand Lit;10;high;17150;213
+Santiago;Brown;United Kingdom;Superior Double;7;low;11256;214
+Muhammad;Yamamoto;United Kingdom;Superior Double;5;high;10635;215
+Olivia;Ivanov;Spain;Superior Double;4;mid;6112;216
+Olivia;Khan;United Kingdom;Standard Double;10;mid;15770;217
+Santiago;Schneider;China;Standard Double;3;mid;4800;218
+Muhammad;Johansson;Vietnam;Standard Single;2;high;2444;219
+Hiroshi;Ivanov;Japan;Grand Lit;7;low;8099;220
+Isabella;Kim;South Korea;Grand Lit;5;high;8170;221
+Ahmed;Martinez;Egypt;Standard Double;6;low;8832;222
+Liam;Yamamoto;Brazil;Standard Single;10;low;9320;223
+Liam;Yamamoto;Canada;Junior Suite;6;high;13272;224
+Liam;Rossi;Spain;Standard Single;1;mid;1038;225
+Muhammad;Silva;Canada;LOFT Suite;7;high;26292;226
+Ahmed;Smith;Australia;Standard Single;4;high;4852;227
+Sophia;Garcia;France;Superior Double;1;mid;1939;228
+Santiago;Martinez;Pakistan;Standard Double;1;high;1759;229
+Liam;Smith;Sweden;Suite;8;low;23560;230
+Lucas;Sato;Italy;Superior Double;6;low;8922;231
+Zhang;Dubois;South Korea;Junior Suite;4;low;7464;232
+Fatima;Dubois;Pakistan;Grand Lit;2;low;2686;233
+Aisha;Johansson;France;Standard Double;1;low;1483;234
+Carlos;Khan;South Korea;Grand Lit;2;low;2760;235
+John;Dubois;Sweden;Spa Executive;9;high;25038;236
+Olivia;Dubois;Russia;Standard Double;9;high;15003;237
+Santiago;Yamamoto;France;Suite;5;high;16080;238
+Sara;Martinez;Egypt;Spa Executive;8;high;21440;239
+David;Müller;South Korea;Junior Suite;7;low;14329;240
+Maria;Johansson;Mexico;Superior Double;2;mid;3768;241
+Ingrid;Olsen;Nigeria;Superior Double;10;low;17490;242
+David;Garcia;China;LOFT Suite;10;low;33860;243
+Chen;Lee;South Korea;Standard Double;5;mid;8075;244
+Ingrid;Khan;Brazil;Suite;6;mid;19446;245
+Olivia;Yamamoto;India;Suite;1;high;3083;246
+Elena;Garcia;Nigeria;Standard Double;6;high;10968;247
+Lucas;Rossi;Mexico;Spa Executive;3;mid;7341;248
+Carlos;Schneider;India;Standard Single;7;mid;8960;249
+Elena;Rossi;Germany;Suite;4;mid;12984;250
+Muhammad;Brown;Sweden;Spa Executive;1;low;2297;251
+Muhammad;Schneider;Italy;Grand Lit;4;low;4452;252
+David;Nguyen;India;Superior Double;2;low;2866;253
+Sara;Martinez;Australia;Standard Double;9;low;14139;254
+Aisha;Sato;Brazil;Suite;1;mid;2989;255
+Fatima;Schneider;Italy;Superior Double;2;mid;3780;256
+Muhammad;Brown;Germany;Grand Lit;9;low;10917;257
+Santiago;Rossi;France;Superior Double;1;low;1736;258
+Sara;Smith;Egypt;Suite;1;low;2849;259
+Elena;Patel;Italy;Spa Executive;5;low;12085;260
+Muhammad;Kim;Nigeria;LOFT Suite;6;low;18630;261
+Elena;Yamamoto;Russia;Superior Double;8;high;17376;262
+Ingrid;Lee;United Kingdom;Grand Lit;8;mid;9784;263
+Ahmed;Smith;Russia;Spa Executive;4;mid;10000;264
+David;Smith;Brazil;LOFT Suite;3;mid;10170;265
+Isabella;Lee;India;Suite;9;mid;27297;266
+Muhammad;Smith;Mexico;Superior Double;8;low;12592;267
+Hiroshi;Smith;Mexico;Superior Double;6;mid;11142;268
+Liam;Sato;United Kingdom;Superior Double;4;mid;7732;269
+Zhang;Hassan;Russia;Junior Suite;5;high;12465;270
+Sophia;Ivanov;Mexico;Spa Executive;5;low;11005;271
+John;Müller;United States;LOFT Suite;2;high;7452;272
+Ingrid;Rossi;Mexico;Superior Double;9;high;19332;273
+Aisha;Johansson;Pakistan;Spa Executive;3;low;6630;274
+Olivia;Hassan;Vietnam;Standard Double;8;low;11776;275
+Aisha;Yamamoto;United Kingdom;Standard Double;10;low;15860;276
+Aisha;Nguyen;Canada;Junior Suite;2;mid;4470;277
+Muhammad;Hassan;Italy;Suite;8;mid;23112;278
+Elena;Müller;Egypt;Standard Double;10;low;15740;279
+Liam;Müller;South Korea;LOFT Suite;3;low;9507;280
+Zhang;Smith;France;Grand Lit;10;mid;12290;281
+Isabella;Garcia;China;Junior Suite;10;high;24910;282
+David;Dubois;Australia;Standard Single;3;mid;3675;283
+David;Dubois;Canada;Standard Double;8;low;11928;284
+Liam;Müller;Spain;Spa Executive;10;high;25350;285
+Ingrid;Martinez;Spain;Junior Suite;4;mid;9324;286
+Elena;Ivanov;India;Junior Suite;3;low;5772;287
+Isabella;Kim;Italy;Superior Double;10;low;17510;288
+Elena;Silva;Vietnam;Grand Lit;9;high;15435;289
+Lucas;Sato;Brazil;Standard Single;10;mid;11340;290
+Hiroshi;Smith;Mexico;Standard Single;9;high;12015;291
+Santiago;Ivanov;Brazil;Junior Suite;6;high;13620;292
+Olivia;Olsen;Nigeria;Junior Suite;7;low;13860;293
+John;Olsen;Australia;Superior Double;1;high;2098;294
+Olivia;Sato;Italy;Standard Single;6;mid;7320;295
+Zhang;Nguyen;Germany;LOFT Suite;5;high;18565;296
+Elena;Martinez;Nigeria;Standard Single;2;low;1958;297
+Ahmed;Müller;India;Grand Lit;4;mid;5580;298
+Santiago;Garcia;France;Superior Double;10;high;18750;299
+David;Schneider;United States;Superior Double;9;high;16524;300
+Isabella;Olsen;United Kingdom;Superior Double;2;mid;3036;301
+David;Yamamoto;United Kingdom;Junior Suite;6;high;14790;302
+Muhammad;Schneider;Japan;Junior Suite;10;mid;20640;303
+Maria;Nguyen;Egypt;Suite;8;low;20072;304
+Muhammad;Rossi;Japan;Standard Double;4;high;6520;305
+Aisha;Rossi;Japan;Superior Double;6;mid;9984;306
+Olivia;Patel;China;Superior Double;3;low;4344;307
+Chen;Patel;Nigeria;Grand Lit;9;mid;12294;308
+Santiago;Yamamoto;Spain;Grand Lit;4;low;5156;309
+Ahmed;Garcia;Mexico;Grand Lit;1;mid;1564;310
+Olivia;Johansson;Pakistan;LOFT Suite;7;high;25550;311
+Ahmed;Rossi;China;Grand Lit;10;mid;13930;312
+Sophia;Müller;Russia;Spa Executive;2;mid;4950;313
+Chen;Garcia;Canada;Grand Lit;10;high;17590;314
+Elena;Ivanov;Australia;LOFT Suite;6;high;21648;315
+Sara;Johansson;Germany;Suite;9;mid;26604;316
+Ahmed;Nguyen;United Kingdom;Superior Double;2;high;3694;317
+Isabella;Smith;Sweden;Suite;9;mid;24966;318
+Santiago;Hassan;Japan;LOFT Suite;3;low;9732;319
+Santiago;Nguyen;South Korea;Standard Single;1;mid;1133;320
+Elena;Khan;United States;Junior Suite;5;high;12460;321
+Chen;Ivanov;United States;Grand Lit;3;high;4569;322
+Ahmed;Khan;Germany;LOFT Suite;1;high;3719;323
+Aisha;Dubois;Germany;Superior Double;7;low;10423;324
+Hiroshi;Kim;Mexico;Superior Double;5;low;8620;325
+Hiroshi;Olsen;Brazil;Superior Double;7;mid;13076;326
+Sophia;Smith;Italy;Standard Single;10;high;13760;327
+Fatima;Smith;Pakistan;Standard Single;3;high;3942;328
+Zhang;Smith;China;Grand Lit;2;high;3082;329
+Zhang;Lee;Australia;Standard Double;10;mid;14490;330
+Chen;Müller;Sweden;Grand Lit;6;mid;9006;331
+John;Garcia;Canada;Standard Single;8;low;8032;332
+Aisha;Yamamoto;United States;Grand Lit;10;high;14170;333
+Aisha;Sato;Russia;Suite;3;mid;9639;334
+Liam;Ivanov;Pakistan;LOFT Suite;3;low;9000;335
+Olivia;Martinez;Sweden;Junior Suite;2;high;4996;336
+Hiroshi;Brown;China;Standard Double;4;mid;5464;337
+Hiroshi;Olsen;United States;Standard Double;8;low;10528;338
+Santiago;Lee;Japan;LOFT Suite;3;high;11736;339
+Aisha;Brown;Egypt;Spa Executive;7;mid;16562;340
+Muhammad;Sato;China;Standard Single;1;mid;1159;341
+Muhammad;Silva;Sweden;Standard Single;6;low;6702;342
+Zhang;Patel;Mexico;Superior Double;10;high;20720;343
+Liam;Müller;Italy;Spa Executive;8;high;20976;344
+Aisha;Patel;Brazil;Suite;8;high;24160;345
+David;Olsen;Vietnam;Junior Suite;1;high;2253;346
+Muhammad;Kim;France;Grand Lit;10;high;17930;347
+Lucas;Johansson;Japan;Superior Double;10;low;15900;348
+Elena;Smith;Vietnam;LOFT Suite;5;low;16090;349
+John;Sato;China;Spa Executive;10;mid;22700;350
+Isabella;Rossi;Japan;Standard Single;6;mid;7146;351
+Sara;Hassan;India;LOFT Suite;1;low;3225;352
+Lucas;Lee;Spain;Suite;7;mid;20468;353
+Fatima;Martinez;Pakistan;Junior Suite;9;mid;18153;354
+John;Dubois;Japan;Junior Suite;9;high;20763;355
+Muhammad;Smith;Japan;Junior Suite;7;low;15365;356
+John;Hassan;United Kingdom;LOFT Suite;6;low;19416;357
+Sophia;Garcia;Germany;Suite;7;high;23240;358
+Sara;Patel;Vietnam;Grand Lit;4;mid;6028;359
+Ahmed;Smith;Egypt;Spa Executive;8;low;18840;360
+John;Nguyen;Pakistan;Spa Executive;10;mid;23890;361
+Muhammad;Sato;United States;Junior Suite;5;high;12420;362
+David;Lee;Sweden;LOFT Suite;6;high;22368;363
+Sophia;Sato;Russia;Standard Single;5;low;5125;364
+Olivia;Garcia;Nigeria;Standard Single;6;mid;7500;365
+Liam;Brown;Sweden;Junior Suite;10;high;22870;366
+Aisha;Garcia;Canada;LOFT Suite;2;mid;6886;367
+Isabella;Dubois;South Korea;LOFT Suite;1;high;3522;368
+Chen;Garcia;South Korea;Suite;1;high;3162;369
+Sara;Yamamoto;Japan;Standard Double;10;high;17080;370
+Ingrid;Hassan;South Korea;LOFT Suite;10;low;31010;371
+Sara;Sato;Australia;Grand Lit;7;low;9471;372
+Olivia;Lee;Mexico;Suite;7;low;18823;373
+Carlos;Silva;Sweden;Superior Double;8;high;15240;374
+David;Silva;Vietnam;Spa Executive;6;high;15522;375
+Muhammad;Kim;Vietnam;Suite;2;high;6786;376
+Hiroshi;Müller;Sweden;Standard Single;1;high;1312;377
+Isabella;Müller;United Kingdom;Spa Executive;6;mid;14778;378
+Hiroshi;Silva;Russia;Standard Single;10;low;9580;379
+Isabella;Ivanov;Vietnam;Spa Executive;4;mid;9760;380
+Aisha;Kim;United Kingdom;Spa Executive;9;low;19584;381
+Carlos;Johansson;Mexico;Suite;3;low;7560;382
+Liam;Schneider;United Kingdom;Junior Suite;5;high;11745;383
+Lucas;Johansson;Nigeria;Junior Suite;3;high;7002;384
+John;Ivanov;France;Superior Double;6;high;10962;385
+Maria;Silva;South Korea;Standard Double;1;high;1807;386
+Hiroshi;Khan;Egypt;Junior Suite;6;mid;13506;387
+Liam;Müller;China;Standard Double;3;mid;4032;388
+Chen;Smith;Canada;Junior Suite;7;mid;14560;389
+Isabella;Schneider;Japan;Standard Double;10;mid;16260;390
+Aisha;Ivanov;Russia;Suite;2;mid;5906;391
+Lucas;Patel;Vietnam;LOFT Suite;4;mid;14076;392
+Muhammad;Kim;South Korea;Superior Double;9;mid;15516;393
+Maria;Smith;China;LOFT Suite;2;mid;7470;394
+David;Yamamoto;Nigeria;Spa Executive;7;low;16373;395
+Liam;Patel;Vietnam;Suite;1;low;2850;396
+Lucas;Ivanov;Australia;Superior Double;9;low;13761;397
+Chen;Kim;Sweden;Grand Lit;9;mid;13392;398
+Elena;Garcia;China;Suite;10;mid;30350;399
+Elena;Kim;Russia;Junior Suite;5;high;11205;400
+Chen;Yamamoto;United Kingdom;Superior Double;1;low;1528;401
+Fatima;Khan;Australia;Junior Suite;7;low;12824;402
+John;Ivanov;Australia;Suite;9;mid;29592;403
+Carlos;Kim;United States;Superior Double;10;mid;18100;404
+David;Lee;Pakistan;Spa Executive;1;low;2149;405
+Aisha;Brown;United States;Standard Double;7;low;10906;406
+Sophia;Khan;Mexico;Grand Lit;4;high;6892;407
+Ingrid;Yamamoto;India;Suite;1;low;2627;408
+David;Martinez;Nigeria;Junior Suite;3;mid;7101;409
+Carlos;Kim;Mexico;Superior Double;8;mid;15888;410
+Olivia;Patel;Sweden;Suite;7;mid;22981;411
+Elena;Rossi;Brazil;Spa Executive;4;high;10412;412
+Lucas;Smith;Australia;Suite;4;mid;11744;413
+Sophia;Hassan;Italy;Spa Executive;8;low;17920;414
+Sophia;Silva;Germany;LOFT Suite;8;low;24560;415
+Zhang;Khan;Vietnam;Superior Double;4;mid;6616;416
+Liam;Nguyen;Japan;Superior Double;2;high;4206;417
+Elena;Schneider;China;Suite;6;mid;16290;418
+Ahmed;Khan;Nigeria;Standard Single;9;high;12213;419
+Fatima;Smith;Vietnam;Standard Double;2;mid;3142;420
+Chen;Rossi;Mexico;Standard Double;1;low;1287;421
+Elena;Olsen;Pakistan;Standard Single;9;high;10953;422
+Zhang;Nguyen;Germany;Standard Double;7;low;8638;423
+Aisha;Patel;Australia;Grand Lit;10;low;12420;424
+Isabella;Yamamoto;Egypt;Grand Lit;3;low;3495;425
+David;Patel;France;Suite;1;low;2815;426
+Ingrid;Martinez;Japan;Grand Lit;9;mid;11826;427
+Sophia;Yamamoto;Italy;Grand Lit;8;high;13128;428
+Chen;Martinez;Germany;Grand Lit;3;mid;3972;429
+John;Brown;India;Spa Executive;5;mid;11025;430
+Santiago;Rossi;Spain;Spa Executive;1;low;2376;431
+David;Rossi;Italy;Junior Suite;5;high;11515;432
+John;Johansson;Vietnam;Standard Double;4;high;6444;433
+Isabella;Yamamoto;China;Suite;1;high;3265;434
+Muhammad;Hassan;Sweden;Suite;6;mid;17868;435
+David;Khan;Spain;Grand Lit;8;mid;10656;436
+Muhammad;Rossi;Brazil;Superior Double;1;high;1884;437
+Olivia;Nguyen;China;Standard Single;2;mid;2222;438
+John;Patel;Sweden;Suite;5;low;13155;439
+Carlos;Yamamoto;India;Suite;2;low;5868;440
+Olivia;Brown;Pakistan;Suite;4;high;12836;441
+Elena;Khan;China;Spa Executive;6;high;16320;442
+Olivia;Johansson;South Korea;Junior Suite;9;mid;20448;443
+Muhammad;Johansson;United States;Standard Single;7;mid;7560;444
+Liam;Lee;Russia;Superior Double;1;mid;1884;445
+Maria;Silva;Japan;Superior Double;2;mid;3864;446
+Isabella;Rossi;Spain;Suite;3;low;7926;447
+Isabella;Khan;France;Superior Double;6;low;10056;448
+Hiroshi;Silva;Russia;Standard Single;3;low;2733;449
+Chen;Ivanov;United States;Spa Executive;2;high;5206;450
+Isabella;Ivanov;Egypt;Standard Single;2;high;2654;451
+Chen;Hassan;Japan;Suite;3;low;7623;452
+Ahmed;Ivanov;Japan;Superior Double;6;high;12402;453
+Carlos;Khan;Mexico;Junior Suite;1;high;2299;454
+Santiago;Dubois;United Kingdom;Superior Double;9;low;15444;455
+Ingrid;Ivanov;Germany;Junior Suite;5;low;10205;456
+Elena;Hassan;Australia;Spa Executive;3;low;6987;457
+Carlos;Martinez;Canada;Superior Double;7;mid;12614;458
+Santiago;Dubois;Australia;Grand Lit;2;low;2454;459
+Zhang;Patel;Brazil;LOFT Suite;8;mid;26312;460
+Ingrid;Müller;Pakistan;Standard Double;6;mid;9066;461
+Fatima;Smith;Sweden;Standard Single;1;low;1162;462
+Lucas;Silva;Sweden;Grand Lit;1;mid;1448;463
+Chen;Ivanov;France;Grand Lit;8;mid;12624;464
+Fatima;Khan;Egypt;Standard Double;2;high;3268;465
+Olivia;Müller;China;Standard Single;9;high;12780;466
+Lucas;Rossi;South Korea;Superior Double;2;low;3218;467
+Muhammad;Nguyen;Canada;Junior Suite;10;low;18530;468
+Isabella;Olsen;Sweden;Spa Executive;1;low;2168;469
+Isabella;Khan;Australia;Grand Lit;4;high;5768;470
+Aisha;Ivanov;Pakistan;LOFT Suite;8;high;30464;471
+John;Ivanov;United States;Grand Lit;9;high;14175;472
+Zhang;Sato;India;LOFT Suite;7;high;25641;473
+Chen;Nguyen;Russia;Suite;9;mid;25992;474
+Ingrid;Garcia;South Korea;Standard Double;8;low;12120;475
+Maria;Johansson;India;Standard Single;6;mid;7464;476
+Sara;Brown;Mexico;LOFT Suite;8;high;30096;477
+Hiroshi;Lee;Mexico;Spa Executive;5;high;13820;478
+Maria;Garcia;Germany;LOFT Suite;4;mid;13296;479
+Elena;Nguyen;India;Suite;1;low;2717;480
+Muhammad;Garcia;Brazil;LOFT Suite;2;high;7670;481
+David;Sato;Spain;Standard Single;3;mid;3753;482
+Aisha;Khan;Italy;LOFT Suite;2;mid;7190;483
+Santiago;Hassan;Sweden;Standard Single;1;high;1387;484
+Zhang;Olsen;France;Spa Executive;2;mid;4792;485
+Maria;Lee;France;Grand Lit;5;low;5715;486
+Olivia;Lee;Nigeria;Standard Double;3;low;3951;487
+Chen;Nguyen;France;Grand Lit;3;low;3933;488
+Sara;Johansson;Mexico;LOFT Suite;4;high;15188;489
+Aisha;Müller;Pakistan;Spa Executive;9;low;18675;490
+Ahmed;Brown;South Korea;Grand Lit;10;low;12310;491
+Lucas;Silva;Canada;Standard Single;3;low;2808;492
+Olivia;Patel;Australia;Standard Single;4;low;4140;493
+Olivia;Garcia;France;LOFT Suite;4;low;13784;494
+Elena;Rossi;Nigeria;Spa Executive;10;high;26530;495
+Aisha;Brown;India;Superior Double;8;low;12504;496
+Chen;Silva;Sweden;Junior Suite;8;high;19576;497
+Ahmed;Olsen;United Kingdom;LOFT Suite;3;high;10515;498
+Liam;Patel;Nigeria;Junior Suite;6;low;11712;499
+Chen;Rossi;India;LOFT Suite;5;low;15530;500
+Lucas;Olsen;Australia;Superior Double;7;low;10311;501
+Elena;Olsen;Vietnam;Standard Single;6;high;7326;502
+Santiago;Brown;Italy;Superior Double;4;mid;7032;503
+Isabella;Dubois;Spain;Junior Suite;1;high;2397;504
+Maria;Kim;Nigeria;Spa Executive;8;low;16376;505
+Santiago;Kim;Canada;Standard Single;9;low;8280;506
+Ahmed;Yamamoto;Nigeria;Spa Executive;1;high;2597;507
+John;Johansson;Brazil;Junior Suite;6;high;14706;508
+Hiroshi;Brown;Spain;Standard Double;10;high;17770;509
+Chen;Müller;United States;Suite;1;low;2610;510
+John;Ivanov;South Korea;Junior Suite;10;low;20590;511
+Zhang;Yamamoto;South Korea;LOFT Suite;5;high;19275;512
+Sophia;Smith;United Kingdom;Spa Executive;8;high;20560;513
+Lucas;Brown;Australia;Spa Executive;5;mid;11830;514
+David;Nguyen;Japan;Standard Single;7;high;9051;515
+Santiago;Johansson;Vietnam;LOFT Suite;8;high;28144;516
+Muhammad;Martinez;Sweden;Suite;10;low;25470;517
+David;Rossi;Russia;Standard Single;3;mid;3021;518
+Isabella;Rossi;Vietnam;Suite;10;low;29370;519
+Carlos;Ivanov;India;Standard Double;3;mid;5031;520
+Sara;Sato;Canada;Suite;10;low;27750;521
+Ahmed;Dubois;United Kingdom;Junior Suite;4;low;8692;522
+Fatima;Smith;France;Grand Lit;2;low;2606;523
+Chen;Brown;China;Spa Executive;5;low;11150;524
+Fatima;Yamamoto;India;Superior Double;8;low;12864;525
+Hiroshi;Lee;Mexico;Junior Suite;3;mid;6633;526
+Santiago;Brown;Mexico;Spa Executive;3;mid;7404;527
+Isabella;Lee;Germany;Spa Executive;9;low;20295;528
+Fatima;Sato;Sweden;LOFT Suite;10;high;39450;529
+Sophia;Dubois;Brazil;Suite;7;low;19558;530
+Sara;Kim;United Kingdom;Suite;8;high;24032;531
+Isabella;Johansson;Australia;Standard Double;1;high;1838;532
+John;Brown;Egypt;Suite;3;mid;9603;533
+Hiroshi;Olsen;Nigeria;Spa Executive;5;high;12720;534
+Aisha;Olsen;Mexico;Suite;5;high;16845;535
+Sara;Smith;Italy;LOFT Suite;4;high;14504;536
+Zhang;Kim;United Kingdom;Spa Executive;10;low;20280;537
+Elena;Johansson;India;Superior Double;5;high;10005;538
+Aisha;Khan;Spain;Junior Suite;8;mid;18696;539
+Ahmed;Dubois;Canada;Superior Double;5;high;10260;540
+Hiroshi;Kim;Italy;Standard Single;6;mid;6156;541
+Sophia;Dubois;Nigeria;Superior Double;3;mid;5748;542
+Carlos;Sato;Spain;Spa Executive;7;low;16646;543
+Sophia;Brown;Sweden;Grand Lit;6;low;6828;544
+Santiago;Müller;United States;Junior Suite;8;high;19048;545
+Ahmed;Patel;United States;Standard Single;2;mid;2206;546
+Sara;Schneider;India;Standard Single;8;high;10096;547
+David;Dubois;Russia;LOFT Suite;6;mid;22218;548
+Hiroshi;Silva;Canada;LOFT Suite;7;low;24241;549
+Ahmed;Garcia;Australia;Spa Executive;8;high;21496;550
+Sara;Nguyen;Japan;Standard Single;5;high;6415;551
+Maria;Müller;Canada;Junior Suite;9;high;21150;552
+Ahmed;Olsen;Sweden;Standard Double;4;high;7420;553
+Ahmed;Yamamoto;United Kingdom;Grand Lit;7;mid;8624;554
+John;Patel;Brazil;Superior Double;2;mid;3994;555
+Carlos;Schneider;Pakistan;LOFT Suite;9;low;27729;556
+Chen;Johansson;India;LOFT Suite;3;low;9027;557
+Maria;Ivanov;Vietnam;Superior Double;6;low;10746;558
+Carlos;Lee;Nigeria;Suite;8;low;22160;559
+David;Rossi;Egypt;Superior Double;2;high;4082;560
+John;Silva;Germany;Standard Double;3;high;5817;561
+Muhammad;Garcia;South Korea;Junior Suite;3;high;7149;562
+Olivia;Lee;Spain;Suite;3;high;9171;563
+Lucas;Lee;Japan;Superior Double;3;high;5907;564
+Sophia;Sato;United States;Standard Double;8;mid;10464;565
+Lucas;Müller;Egypt;Standard Double;8;low;12240;566
+Lucas;Nguyen;South Korea;Suite;10;mid;31110;567
+Olivia;Schneider;Australia;Standard Double;7;mid;10584;568
+John;Yamamoto;South Korea;Spa Executive;4;mid;9000;569
+Maria;Garcia;Brazil;Spa Executive;7;high;19446;570
+Fatima;Martinez;Sweden;Standard Single;4;mid;4688;571
+Chen;Johansson;France;Spa Executive;4;mid;9844;572
+Zhang;Kim;United States;Standard Double;1;high;1936;573
+Liam;Brown;Mexico;Suite;10;high;31530;574
+Lucas;Nguyen;Vietnam;Superior Double;9;mid;17424;575
+Ingrid;Lee;Germany;Standard Double;9;low;11871;576
+Olivia;Johansson;South Korea;Standard Double;8;low;11552;577
+Isabella;Brown;Brazil;Standard Single;1;high;1434;578
+Fatima;Smith;China;LOFT Suite;5;mid;17655;579
+Elena;Hassan;Spain;Suite;2;low;5816;580
+Zhang;Schneider;Japan;Standard Double;9;mid;13500;581
+Liam;Yamamoto;Spain;Standard Single;4;high;5756;582
+John;Lee;Canada;Standard Double;5;high;8245;583
+Aisha;Lee;Sweden;Standard Single;4;mid;4208;584
+David;Nguyen;Vietnam;LOFT Suite;3;high;11844;585
+Hiroshi;Lee;Russia;Spa Executive;3;mid;7020;586
+Ahmed;Rossi;South Korea;Standard Single;8;low;8160;587
+Sophia;Müller;China;Standard Single;10;low;9240;588
+Carlos;Dubois;Canada;Suite;6;low;17916;589
+Fatima;Martinez;Pakistan;Junior Suite;9;high;22176;590
+David;Garcia;Germany;Spa Executive;10;mid;24560;591
+John;Lee;Australia;Superior Double;9;mid;14229;592
+Liam;Yamamoto;India;Junior Suite;1;low;1886;593
+Carlos;Dubois;United States;Superior Double;4;high;7740;594
+Muhammad;Patel;Canada;Standard Single;3;mid;3027;595
+Hiroshi;Nguyen;Australia;Spa Executive;7;high;18417;596
+Liam;Kim;India;Grand Lit;4;high;6060;597
+John;Nguyen;Germany;Standard Single;2;low;2212;598
+David;Sato;United States;Junior Suite;4;mid;8640;599
+Elena;Dubois;Italy;LOFT Suite;2;low;6712;600
+Liam;Silva;Spain;Spa Executive;10;mid;24170;601
+Muhammad;Khan;United Kingdom;Grand Lit;9;low;10008;602
+Olivia;Nguyen;Brazil;Standard Double;8;mid;11208;603
+Maria;Garcia;Sweden;Superior Double;6;high;11496;604
+Fatima;Müller;Germany;Superior Double;4;high;7824;605
+Sara;Rossi;Vietnam;Junior Suite;9;mid;18594;606
+Carlos;Dubois;China;Junior Suite;5;mid;10475;607
+Elena;Yamamoto;India;Standard Single;2;mid;2596;608
+Aisha;Lee;Canada;LOFT Suite;1;high;3739;609
+Ingrid;Brown;Vietnam;Grand Lit;7;mid;10724;610
+Ingrid;Johansson;France;Suite;7;low;19432;611
+Muhammad;Sato;Vietnam;Standard Single;6;low;6660;612
+Ingrid;Rossi;Sweden;Suite;3;high;9555;613
+Chen;Dubois;Russia;LOFT Suite;1;high;3598;614
+Santiago;Sato;Russia;Superior Double;7;low;10052;615
+Lucas;Nguyen;Pakistan;Grand Lit;5;mid;6090;616
+Santiago;Schneider;United States;Grand Lit;2;low;2384;617
+Aisha;Patel;Vietnam;Suite;9;low;23958;618
+Sara;Garcia;China;Suite;2;mid;6172;619
+Maria;Nguyen;Russia;Standard Single;8;mid;8152;620
+Muhammad;Smith;Sweden;Suite;7;high;23541;621
+David;Schneider;Russia;Standard Double;9;high;15084;622
+Fatima;Smith;United Kingdom;Spa Executive;7;mid;16576;623
+Chen;Olsen;France;Junior Suite;4;mid;8784;624
+Elena;Khan;Russia;LOFT Suite;1;low;3094;625
+Zhang;Müller;South Korea;Suite;9;high;27072;626
+Elena;Silva;Mexico;LOFT Suite;6;high;22974;627
+Santiago;Dubois;China;Grand Lit;7;high;11004;628
+Muhammad;Kim;Italy;Superior Double;10;high;21110;629
+Isabella;Khan;Brazil;Superior Double;3;high;5721;630
+Carlos;Silva;Vietnam;LOFT Suite;2;low;6208;631
+Chen;Yamamoto;India;Standard Double;8;low;11544;632
+Ahmed;Lee;India;Standard Double;4;low;6356;633
+Ahmed;Martinez;Vietnam;Grand Lit;1;high;1441;634
+Olivia;Yamamoto;Russia;Grand Lit;9;low;10629;635
+Ingrid;Rossi;Spain;Suite;4;high;13932;636
+Santiago;Johansson;South Korea;Grand Lit;4;high;6444;637
+Liam;Khan;Russia;Standard Single;9;high;11610;638
+Sara;Smith;Sweden;LOFT Suite;1;mid;3357;639
+Isabella;Olsen;Germany;Standard Double;7;low;10514;640
+Sara;Dubois;Sweden;LOFT Suite;9;mid;29547;641
+Muhammad;Sato;France;Superior Double;4;high;8256;642
+Hiroshi;Olsen;Sweden;Suite;2;low;5198;643
+Ingrid;Olsen;South Korea;Standard Single;10;mid;11520;644
+Olivia;Silva;Sweden;LOFT Suite;2;high;7506;645
+Liam;Johansson;South Korea;Spa Executive;4;high;10696;646
+Chen;Lee;United Kingdom;Standard Double;6;low;8592;647
+Ahmed;Martinez;Brazil;Superior Double;2;high;3926;648
+Elena;Martinez;United States;Junior Suite;8;low;16344;649
+Hiroshi;Garcia;India;LOFT Suite;6;mid;22596;650
+Hiroshi;Hassan;France;LOFT Suite;9;mid;29286;651
+Hiroshi;Schneider;India;Junior Suite;4;low;8004;652
+Maria;Olsen;Canada;Junior Suite;8;mid;16392;653
+Elena;Lee;Egypt;Suite;5;mid;14425;654
+Olivia;Olsen;Spain;Standard Single;10;low;11160;655
+Hiroshi;Garcia;United States;Spa Executive;2;low;4926;656
+Aisha;Müller;Spain;Suite;7;low;20531;657
+Muhammad;Brown;Germany;Standard Double;8;high;13496;658
+Maria;Brown;China;Junior Suite;10;low;20140;659
+Liam;Garcia;South Korea;Grand Lit;5;mid;7570;660
+Zhang;Lee;China;Superior Double;6;mid;9066;661
+Ingrid;Sato;France;Spa Executive;1;low;2087;662
+Elena;Kim;Mexico;Suite;3;low;7560;663
+Aisha;Patel;United Kingdom;Grand Lit;8;high;12872;664
+Lucas;Schneider;South Korea;LOFT Suite;2;high;7062;665
+John;Khan;France;Standard Single;2;high;2608;666
+Santiago;Kim;Canada;Standard Single;9;low;9531;667
+Hiroshi;Schneider;United States;Standard Double;9;low;11070;668
+Liam;Khan;Mexico;Spa Executive;1;mid;2446;669
+Carlos;Martinez;Australia;Spa Executive;4;low;9288;670
+Aisha;Hassan;China;Superior Double;9;mid;15291;671
+Lucas;Garcia;Spain;Suite;4;low;10792;672
+Santiago;Olsen;Germany;Suite;2;mid;6452;673
+Ahmed;Johansson;Australia;Spa Executive;6;mid;14532;674
+John;Sato;France;Superior Double;8;low;14120;675
+Fatima;Silva;Spain;Junior Suite;6;mid;13854;676
+Hiroshi;Patel;France;Junior Suite;9;mid;20268;677
+Carlos;Dubois;South Korea;Spa Executive;5;mid;11860;678
+Fatima;Garcia;South Korea;Suite;8;mid;22616;679
+Chen;Kim;Nigeria;Spa Executive;8;high;21816;680
+Ahmed;Johansson;Nigeria;Spa Executive;9;high;22581;681
+John;Dubois;Germany;Standard Single;10;mid;11000;682
+David;Schneider;United Kingdom;Junior Suite;7;mid;15708;683
+Liam;Ivanov;Pakistan;Grand Lit;3;low;3885;684
+Santiago;Lee;Japan;Junior Suite;8;high;18088;685
+John;Sato;Vietnam;Grand Lit;2;low;2288;686
+Maria;Nguyen;France;Superior Double;6;high;11022;687
+Lucas;Silva;France;LOFT Suite;10;mid;36090;688
+Isabella;Müller;Nigeria;Spa Executive;6;low;12840;689
+Sara;Schneider;South Korea;Standard Double;8;low;12368;690
+Ahmed;Kim;Japan;Suite;2;high;6496;691
+Hiroshi;Khan;Brazil;Junior Suite;4;high;9264;692
+Ingrid;Olsen;Germany;Grand Lit;5;high;7430;693
+Zhang;Hassan;Italy;Spa Executive;8;high;20624;694
+Fatima;Schneider;Russia;Standard Double;5;low;6360;695
+Zhang;Kim;United Kingdom;Superior Double;10;low;15410;696
+Muhammad;Sato;United Kingdom;Superior Double;7;mid;13832;697
+Lucas;Khan;Sweden;Spa Executive;1;low;2102;698
+Hiroshi;Khan;France;Superior Double;8;low;11976;699
+Sophia;Schneider;United Kingdom;Junior Suite;10;mid;21370;700
+Zhang;Schneider;Japan;Grand Lit;10;low;12490;701
+Lucas;Johansson;Canada;Junior Suite;1;mid;2260;702
+Maria;Garcia;Sweden;Spa Executive;7;high;18284;703
+Santiago;Khan;Italy;Spa Executive;7;mid;16163;704
+Fatima;Dubois;Italy;Superior Double;8;low;14248;705
+Fatima;Hassan;Egypt;Standard Double;9;high;15885;706
+Zhang;Schneider;Germany;LOFT Suite;4;low;13108;707
+Santiago;Kim;Brazil;Suite;3;mid;9030;708
+Sophia;Patel;India;Standard Single;9;mid;10278;709
+Ingrid;Müller;Mexico;Suite;6;low;15564;710
+Muhammad;Patel;Italy;Spa Executive;6;high;16326;711
+Lucas;Garcia;Egypt;Standard Double;2;low;2646;712
+Lucas;Lee;Italy;Superior Double;5;mid;7845;713
+Maria;Garcia;Russia;Suite;2;high;6592;714
+Fatima;Patel;Brazil;Junior Suite;6;mid;14322;715
+Olivia;Müller;Russia;Junior Suite;2;mid;4028;716
+Ingrid;Nguyen;Pakistan;Grand Lit;8;high;14224;717
+Maria;Smith;Spain;LOFT Suite;8;high;28600;718
+Olivia;Silva;France;Suite;10;low;29710;719
+Ingrid;Dubois;South Korea;Standard Single;7;low;6902;720
+Olivia;Lee;Pakistan;Standard Single;6;mid;6966;721
+John;Hassan;Nigeria;Superior Double;1;low;1615;722
+Lucas;Smith;United States;Superior Double;2;mid;3566;723
+Liam;Yamamoto;United Kingdom;Grand Lit;1;high;1772;724
+Aisha;Martinez;China;Grand Lit;7;low;8883;725
+David;Lee;Australia;Junior Suite;9;high;20925;726
+Ahmed;Olsen;United Kingdom;Standard Double;10;mid;14690;727
+Isabella;Smith;Germany;Standard Double;4;low;5556;728
+Ingrid;Yamamoto;Brazil;Suite;9;mid;27738;729
+Ahmed;Schneider;Sweden;Junior Suite;7;low;14091;730
+Olivia;Johansson;France;Superior Double;5;mid;9055;731
+Liam;Sato;Italy;Superior Double;7;mid;13272;732
+Liam;Patel;United States;Standard Double;3;low;4359;733
+Sara;Johansson;Germany;Standard Double;10;mid;16540;734
+Maria;Garcia;Canada;LOFT Suite;2;high;7188;735
+Olivia;Silva;United Kingdom;Spa Executive;2;low;4992;736
+Elena;Sato;India;LOFT Suite;6;low;19608;737
+Hiroshi;Müller;China;Superior Double;4;high;7228;738
+Carlos;Silva;Egypt;Junior Suite;9;high;21285;739
+John;Kim;Japan;Junior Suite;2;high;4780;740
+Olivia;Schneider;Australia;Standard Single;8;low;9360;741
+Ingrid;Ivanov;United Kingdom;Spa Executive;3;low;6552;742
+John;Olsen;Sweden;Grand Lit;9;high;13050;743
+Santiago;Johansson;Italy;Standard Double;10;high;18920;744
+Sophia;Sato;Canada;Standard Double;6;mid;9276;745
+Zhang;Garcia;Egypt;Junior Suite;1;high;2257;746
+Santiago;Olsen;South Korea;Standard Double;5;low;7565;747
+Lucas;Rossi;France;LOFT Suite;2;high;7522;748
+Sara;Smith;South Korea;Grand Lit;5;mid;6395;749
+Ahmed;Rossi;Vietnam;Suite;1;mid;3217;750
+Lucas;Johansson;United Kingdom;LOFT Suite;1;low;3245;751
+John;Nguyen;Mexico;Suite;1;low;2951;752
+Isabella;Khan;Mexico;Standard Double;1;low;1575;753
+Ahmed;Ivanov;United States;Standard Double;6;high;10230;754
+Ingrid;Silva;Russia;Standard Single;8;high;11672;755
+David;Brown;United States;Spa Executive;9;mid;23229;756
+Lucas;Hassan;Canada;Junior Suite;5;high;11940;757
+Isabella;Khan;India;Junior Suite;3;mid;6489;758
+Hiroshi;Yamamoto;United States;Superior Double;2;mid;3194;759
+Isabella;Müller;Vietnam;Standard Double;1;mid;1311;760
+Ingrid;Rossi;Australia;Spa Executive;8;mid;19584;761
+Olivia;Sato;Pakistan;Standard Double;6;high;11442;762
+Liam;Johansson;Egypt;Grand Lit;9;low;10089;763
+Sophia;Johansson;United Kingdom;LOFT Suite;9;high;33300;764
+Hiroshi;Johansson;Nigeria;Superior Double;7;low;11725;765
+Lucas;Kim;Sweden;Standard Single;6;low;6138;766
+David;Brown;South Korea;Standard Double;3;high;5832;767
+John;Martinez;Germany;Junior Suite;5;high;12385;768
+John;Müller;Italy;Suite;10;low;29760;769
+David;Dubois;Japan;Suite;2;high;6068;770
+Ingrid;Hassan;Russia;Suite;10;low;26130;771
+Aisha;Olsen;Sweden;Superior Double;2;high;4198;772
+Muhammad;Schneider;Pakistan;Suite;3;low;7917;773
+Santiago;Dubois;Italy;Standard Single;10;high;12450;774
+Sara;Patel;Spain;LOFT Suite;3;high;11067;775
+Santiago;Rossi;Russia;Spa Executive;6;low;14898;776
+John;Rossi;Brazil;Spa Executive;6;mid;14118;777
+Sara;Olsen;South Korea;Junior Suite;4;mid;9340;778
+Elena;Yamamoto;Germany;Standard Double;4;mid;6384;779
+Maria;Yamamoto;Spain;Superior Double;10;low;15490;780
+Hiroshi;Dubois;Nigeria;Suite;2;low;5690;781
+Fatima;Martinez;France;Superior Double;2;low;3568;782
+Sophia;Smith;Russia;Suite;7;low;17717;783
+Ingrid;Dubois;Russia;Junior Suite;4;high;9248;784
+Ahmed;Ivanov;India;Superior Double;10;mid;15820;785
+Isabella;Hassan;Germany;Spa Executive;3;mid;7260;786
+Ingrid;Yamamoto;Mexico;Standard Double;6;high;10872;787
+Muhammad;Sato;Russia;Junior Suite;7;low;14616;788
+Elena;Kim;Italy;Junior Suite;6;mid;12618;789
+Liam;Müller;Italy;Standard Single;4;high;5184;790
+Santiago;Schneider;Egypt;Suite;1;mid;2933;791
+Lucas;Hassan;Spain;Junior Suite;4;mid;8880;792
+Elena;Garcia;South Korea;Spa Executive;10;high;25820;793
+Sophia;Rossi;France;Grand Lit;2;mid;3160;794
+Ahmed;Silva;China;Standard Single;8;low;9256;795
+Carlos;Nguyen;United Kingdom;Standard Single;10;high;13990;796
+Hiroshi;Johansson;Japan;Superior Double;10;low;17310;797
+Ahmed;Schneider;Sweden;Suite;3;low;7704;798
+Muhammad;Brown;Italy;Spa Executive;8;mid;19832;799
+Sophia;Martinez;Brazil;Spa Executive;5;mid;11875;800
+Hiroshi;Müller;Australia;Standard Single;3;high;4449;801
+Ahmed;Müller;France;Spa Executive;2;mid;5182;802
+John;Martinez;Italy;Standard Single;4;low;3648;803
+Aisha;Schneider;United Kingdom;Junior Suite;2;mid;4180;804
+Fatima;Dubois;Vietnam;Junior Suite;3;mid;7116;805
+Zhang;Kim;Australia;Spa Executive;6;low;14580;806
+Isabella;Rossi;China;LOFT Suite;2;high;7992;807
+Santiago;Martinez;China;Spa Executive;3;low;6156;808
+David;Smith;Italy;Junior Suite;7;mid;14644;809
+Olivia;Hassan;Brazil;Junior Suite;3;low;6510;810
+Sophia;Silva;Mexico;Grand Lit;10;mid;14090;811
+Fatima;Yamamoto;Australia;Junior Suite;2;high;4708;812
+Lucas;Smith;Japan;Spa Executive;4;mid;8948;813
+Fatima;Lee;India;Superior Double;5;high;10880;814
+Sophia;Dubois;India;Standard Double;6;mid;9084;815
+Santiago;Lee;Brazil;Junior Suite;4;low;7824;816
+Olivia;Smith;United Kingdom;Suite;10;high;33550;817
+Carlos;Martinez;Brazil;Junior Suite;2;low;4028;818
+Ahmed;Dubois;France;Suite;1;low;2860;819
+Zhang;Hassan;China;Grand Lit;8;low;9064;820
+Hiroshi;Brown;Mexico;Standard Double;4;low;5252;821
+Muhammad;Nguyen;France;Standard Single;2;mid;2454;822
+Hiroshi;Hassan;Egypt;Standard Single;4;mid;5076;823
+Maria;Ivanov;Nigeria;Grand Lit;2;high;3570;824
+Olivia;Lee;Brazil;Spa Executive;4;mid;9668;825
+Olivia;Schneider;France;Suite;2;mid;6586;826
+Carlos;Sato;China;LOFT Suite;6;mid;21186;827
+Sara;Olsen;Russia;Suite;6;low;17136;828
+Ingrid;Müller;United States;Grand Lit;1;high;1660;829
+John;Dubois;India;Superior Double;9;mid;16461;830
+Sara;Khan;Pakistan;Standard Single;7;mid;7707;831
+Isabella;Schneider;Brazil;Standard Double;6;mid;9864;832
+Carlos;Hassan;Pakistan;LOFT Suite;10;mid;34080;833
+Santiago;Yamamoto;United Kingdom;Suite;4;mid;12280;834
+Muhammad;Nguyen;United States;Grand Lit;3;low;4143;835
+Carlos;Sato;Pakistan;Spa Executive;1;low;2088;836
+Sara;Nguyen;France;Superior Double;6;low;10626;837
+David;Brown;Mexico;Grand Lit;9;mid;13923;838
+Chen;Rossi;Italy;Suite;7;mid;21378;839
+Sophia;Nguyen;Italy;LOFT Suite;10;high;36450;840
+Muhammad;Müller;Vietnam;Superior Double;9;high;17739;841
+John;Brown;China;Standard Single;4;mid;4600;842
+Ingrid;Garcia;Canada;LOFT Suite;5;high;19675;843
+Maria;Müller;Brazil;Spa Executive;3;mid;7398;844
+Elena;Johansson;South Korea;LOFT Suite;2;mid;6684;845
+Lucas;Martinez;Sweden;Superior Double;9;low;13752;846
+Sara;Garcia;Russia;Spa Executive;1;mid;2208;847
+David;Patel;India;Grand Lit;1;high;1752;848
+Ingrid;Sato;Germany;Junior Suite;2;mid;4304;849
+Aisha;Dubois;Mexico;Standard Double;7;high;11795;850
+Lucas;Ivanov;United Kingdom;Spa Executive;7;high;18977;851
+Ahmed;Patel;Vietnam;Superior Double;10;high;18950;852
+Lucas;Schneider;France;Superior Double;6;high;11022;853
+Aisha;Patel;Spain;LOFT Suite;3;mid;10668;854
+Ingrid;Ivanov;Canada;Suite;5;low;14450;855
+Isabella;Hassan;India;Suite;5;high;16170;856
+Ahmed;Lee;Vietnam;LOFT Suite;3;mid;10359;857
+Isabella;Johansson;Russia;LOFT Suite;3;mid;10506;858
+Elena;Sato;Sweden;Standard Double;3;low;4455;859
+David;Khan;India;Standard Single;5;mid;6030;860
+Zhang;Olsen;Germany;Spa Executive;5;mid;11365;861
+Hiroshi;Schneider;South Korea;Spa Executive;5;high;12805;862
+Aisha;Müller;India;Superior Double;7;high;14378;863
+Aisha;Johansson;Nigeria;LOFT Suite;1;low;3245;864
+Hiroshi;Silva;France;Spa Executive;8;mid;20448;865
+Zhang;Silva;Mexico;Standard Double;4;high;7892;866
+Olivia;Ivanov;Vietnam;Junior Suite;4;high;9708;867
+John;Dubois;Mexico;LOFT Suite;10;mid;34480;868
+Liam;Martinez;Vietnam;Standard Double;10;low;13450;869
+Olivia;Brown;Egypt;Standard Single;1;high;1498;870
+Muhammad;Martinez;Nigeria;Suite;6;high;19554;871
+Lucas;Khan;Germany;Grand Lit;5;mid;7760;872
+Olivia;Khan;India;Junior Suite;10;mid;23600;873
+Ahmed;Johansson;Australia;Spa Executive;1;low;2102;874
+Aisha;Martinez;China;Superior Double;8;high;15440;875
+Fatima;Olsen;Spain;Junior Suite;9;high;20943;876
+Zhang;Garcia;Russia;Superior Double;7;high;12740;877
+Liam;Garcia;Brazil;Suite;10;high;34110;878
+Olivia;Ivanov;Mexico;Junior Suite;5;high;11220;879
+Elena;Sato;United Kingdom;Junior Suite;9;mid;19548;880
+Hiroshi;Olsen;Brazil;Junior Suite;8;low;17016;881
+Santiago;Sato;Brazil;Superior Double;5;high;10945;882
+David;Smith;United States;Grand Lit;6;low;7284;883
+Zhang;Garcia;Australia;Superior Double;8;mid;13608;884
+John;Khan;Japan;Suite;9;high;30411;885
+Sara;Lee;South Korea;Standard Single;6;high;8448;886
+Ahmed;Garcia;South Korea;Superior Double;4;high;7308;887
+Hiroshi;Johansson;Vietnam;Spa Executive;6;mid;15096;888
+Lucas;Olsen;United Kingdom;Standard Single;7;high;9898;889
+Liam;Hassan;Spain;Spa Executive;3;low;6546;890
+Sara;Müller;China;Standard Single;1;high;1218;891
+Liam;Garcia;Russia;Grand Lit;7;mid;9359;892
+Elena;Khan;Italy;Standard Double;8;mid;10504;893
+Liam;Rossi;India;Standard Double;10;low;14050;894
+Carlos;Ivanov;Germany;Junior Suite;1;mid;2210;895
+Chen;Rossi;Russia;Standard Single;3;mid;3252;896
+Olivia;Garcia;Germany;Spa Executive;3;mid;7482;897
+Zhang;Dubois;Pakistan;Junior Suite;6;high;14508;898
+Isabella;Lee;South Korea;Superior Double;6;high;11892;899
+Ahmed;Sato;Canada;Spa Executive;9;high;24867;900
+Chen;Nguyen;Pakistan;Junior Suite;6;low;10986;901
+David;Brown;Pakistan;Spa Executive;1;low;2109;902
+Zhang;Nguyen;United Kingdom;Standard Double;6;low;8814;903
+Sara;Nguyen;France;Suite;3;high;9456;904
+Olivia;Khan;Australia;Suite;1;high;3324;905
+Zhang;Sato;France;LOFT Suite;3;mid;10404;906
+Elena;Garcia;Mexico;Grand Lit;6;high;9216;907
+Olivia;Brown;India;Suite;2;high;6922;908
+David;Dubois;Spain;Suite;4;high;12696;909
+John;Kim;Brazil;Standard Double;1;low;1479;910
+Hiroshi;Kim;Canada;Suite;3;high;9210;911
+Zhang;Schneider;Nigeria;Grand Lit;4;low;5244;912
+Carlos;Brown;France;Suite;4;low;11428;913
+Liam;Rossi;United Kingdom;Junior Suite;1;high;2220;914
+Zhang;Martinez;Sweden;Superior Double;2;low;3484;915
+Sara;Nguyen;Sweden;Grand Lit;10;high;14520;916
+Zhang;Kim;Russia;Spa Executive;7;low;16128;917
+Aisha;Martinez;South Korea;Spa Executive;4;low;8768;918
+Liam;Khan;United States;Suite;5;high;16015;919
+Santiago;Rossi;Sweden;Junior Suite;10;mid;21350;920
+Carlos;Silva;Sweden;Grand Lit;7;high;10535;921
+Chen;Brown;China;Spa Executive;9;high;23553;922
+Hiroshi;Martinez;Spain;Grand Lit;1;mid;1210;923
+Maria;Garcia;Italy;Grand Lit;7;mid;9408;924
+Sophia;Brown;United Kingdom;Junior Suite;3;high;6816;925
+Olivia;Martinez;Japan;Spa Executive;8;mid;19192;926
+Ingrid;Smith;Canada;Grand Lit;6;mid;9576;927
+Olivia;Ivanov;Australia;Spa Executive;6;high;15582;928
+Sara;Müller;Spain;Superior Double;4;low;6912;929
+Santiago;Rossi;Russia;Standard Single;1;high;1311;930
+Sara;Patel;Spain;Suite;4;mid;13176;931
+Chen;Garcia;Japan;Spa Executive;1;low;2095;932
+Hiroshi;Sato;China;Junior Suite;3;low;5733;933
+Sara;Rossi;China;Spa Executive;10;high;25490;934
+Aisha;Lee;Egypt;Spa Executive;10;mid;22210;935
+Ahmed;Martinez;Russia;Standard Double;7;low;10549;936
+Sara;Lee;Brazil;Superior Double;9;mid;16632;937
+John;Hassan;United Kingdom;Grand Lit;3;high;4938;938
+Sophia;Rossi;Japan;LOFT Suite;7;low;22155;939
+Sophia;Sato;Italy;Junior Suite;1;mid;2002;940
+Olivia;Yamamoto;Germany;Standard Double;9;low;13158;941
+Zhang;Müller;Mexico;Spa Executive;1;high;2588;942
+John;Smith;Spain;LOFT Suite;2;low;6102;943
+Olivia;Müller;Pakistan;Superior Double;9;high;16929;944
+Maria;Hassan;United Kingdom;Suite;6;mid;18684;945
+Hiroshi;Ivanov;Italy;Standard Single;3;high;4365;946
+Liam;Smith;Australia;Spa Executive;1;mid;2467;947
+Ahmed;Dubois;Pakistan;Suite;7;mid;22449;948
+Ahmed;Patel;Pakistan;Standard Single;5;high;6730;949
+Muhammad;Ivanov;Canada;Junior Suite;1;mid;2150;950
+Liam;Ivanov;Brazil;Standard Single;1;mid;1181;951
+Santiago;Müller;Pakistan;Junior Suite;1;mid;2262;952
+Ahmed;Smith;Brazil;Superior Double;9;mid;14769;953
+Aisha;Johansson;Japan;Grand Lit;1;low;1265;954
+Sophia;Dubois;Japan;LOFT Suite;10;low;34740;955
+Muhammad;Müller;China;Suite;7;mid;22561;956
+Aisha;Martinez;Germany;Suite;10;low;27230;957
+Olivia;Hassan;United States;Junior Suite;4;low;7952;958
+Aisha;Silva;South Korea;Superior Double;5;high;10005;959
+Ingrid;Kim;Brazil;Standard Double;10;high;17330;960
+Santiago;Olsen;Canada;Spa Executive;7;high;18753;961
+Olivia;Brown;China;Suite;1;high;3195;962
+Zhang;Garcia;South Korea;LOFT Suite;9;mid;30096;963
+Olivia;Martinez;Egypt;Junior Suite;10;mid;20270;964
+Chen;Yamamoto;Mexico;LOFT Suite;2;mid;7008;965
+Zhang;Brown;Russia;Superior Double;1;high;1912;966
+Muhammad;Hassan;South Korea;Standard Double;4;low;5040;967
+Muhammad;Schneider;Australia;Junior Suite;3;low;6228;968
+Sara;Johansson;Germany;Grand Lit;10;mid;15030;969
+Aisha;Yamamoto;Australia;Spa Executive;6;mid;14706;970
+Zhang;Martinez;South Korea;Spa Executive;5;high;12985;971
+Sara;Ivanov;Australia;Spa Executive;8;low;16392;972
+Fatima;Rossi;Japan;Grand Lit;4;high;6320;973
+Sophia;Schneider;France;LOFT Suite;4;high;14084;974
+Olivia;Hassan;Russia;Spa Executive;1;low;2391;975
+Zhang;Rossi;Nigeria;Standard Double;6;high;11532;976
+Lucas;Silva;Japan;Spa Executive;3;mid;6819;977
+Sara;Hassan;South Korea;Spa Executive;1;mid;2218;978
+Santiago;Khan;Pakistan;LOFT Suite;2;mid;7340;979
+Ahmed;Yamamoto;Vietnam;Spa Executive;3;mid;6924;980
+Ingrid;Martinez;Brazil;Superior Double;5;high;10285;981
+Fatima;Kim;South Korea;Superior Double;9;low;15444;982
+Muhammad;Martinez;Nigeria;Standard Single;4;high;5792;983
+John;Sato;France;LOFT Suite;4;high;15144;984
+Carlos;Ivanov;China;Junior Suite;9;low;17163;985
+Ahmed;Martinez;India;Standard Double;1;high;1795;986
+Olivia;Müller;United Kingdom;Suite;3;high;9984;987
+Santiago;Hassan;Nigeria;Standard Double;1;low;1308;988
+David;Sato;Australia;Standard Double;8;mid;10920;989
+John;Hassan;Australia;Superior Double;6;low;8814;990
+Sophia;Schneider;Egypt;Grand Lit;6;low;7974;991
+Maria;Olsen;India;Suite;6;high;20808;992
+Maria;Dubois;Sweden;Standard Single;2;high;2588;993
+Liam;Patel;South Korea;LOFT Suite;6;low;20748;994
+Olivia;Müller;South Korea;Suite;9;mid;27873;995
+Ahmed;Garcia;Russia;Suite;7;high;24220;996
+Carlos;Silva;Sweden;Standard Single;3;mid;3651;997
+Ahmed;Kim;Vietnam;Superior Double;3;mid;5757;998
+Liam;Khan;Italy;Standard Double;4;low;4808;999
+Liam;Rossi;Canada;Suite;4;low;10740;1000
