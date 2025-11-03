@@ -1,24 +1,27 @@
 import streamlit as st
+from management import vis_management_side
 
-st.title("Hotel Kong Arthur Management System")
+# Baggrundsfarve (lys beige)
+st.markdown("""
+    <style>
+    .stApp {
+        background-color: #f4efeb;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
-st.sidebar.header("Hop mellem views")
+# Logo Titel med farve (HTML)
+st.markdown("<h1 style='color:#a66a0a;'>Hotel Kong Arthur</h1>", unsafe_allow_html=True)
 
+# Sidebar-menu med kun to valg
+st.sidebar.title("Navigation")
+valg = st.sidebar.radio("Vælg en side:", ["Forside", "Management"])
 
-st.text("Her er en graf")
-#fra https://docs.streamlit.io/develop/api-reference/charts/st.plotly_chart
-import plotly.graph_objects as go
-fig = go.Figure()
-fig.add_trace(
-    go.Scatter(
-        x=[1, 2, 3, 4, 5],
-        y=[1, 3, 2, 5, 4]
-    )
-)
+# Forside
+if valg == "Forside":
+    st.markdown("<h2 style='color:#a66a0a;'>Hotel Kong Arthur Management System</h2>", unsafe_allow_html=True)
+    st.write("Velkommen til forsiden!")
 
-st.plotly_chart(fig, config = {'scrollZoom': False})
-
-
-#Vi kan bruge denne
-#https://docs.streamlit.io/develop/api-reference/charts/st.pydeck_chart
-#til at lave et kort yay
+# Management-side
+elif valg == "Management":
+    vis_management_side()
