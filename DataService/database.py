@@ -22,8 +22,7 @@ conn = sqlite3.connect(DB_Hotel)
 print(pd.read_sql_query("SELECT * FROM hotelData", conn))
 
 
-
-################  API  ################
+################  API Test ################
 @app.route("/data", methods=["GET"])
 def get_all():
     conn = sqlite3.connect(DB_Hotel)

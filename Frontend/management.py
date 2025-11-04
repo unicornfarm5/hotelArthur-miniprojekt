@@ -1,6 +1,7 @@
 import streamlit as st
 import plotly.graph_objects as go
 
+
 def vis_management_side():
     # Tilføj baggrundsfarve og overskriftfarve via CSS
     st.markdown("""
