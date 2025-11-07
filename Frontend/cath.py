@@ -4,15 +4,7 @@ import requests
 import time
 import plotly.express as px
 
-
-st.title("Booking overblik")
-
-st.divider()
-st.header("Grafer hentet med API er herunder")
-st.subheader("Indtjening fordelt på lande")
-
-
-        #viewmodel (eller ihvert fald ikke frontend)
+        #viewmodel / middleware
 @st.cache_data
 def load_data():
     r = requests.get("http://dataservice:5000/data")
@@ -28,15 +20,6 @@ def load_data():
 
 api_df = load_data()
 
-### graf 3 ###
-st.write("Data fra API overview:")
-st.dataframe(api_df)
-st.divider()
-
-### graf 4 ###
-# Plot med Plotly
-fig = px.bar(api_df, x="Country", y="Price", title="Indtjening fordelt på lande (API)")
-st.plotly_chart(fig)
 
 
 

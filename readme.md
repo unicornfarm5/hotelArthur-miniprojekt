@@ -13,6 +13,8 @@ eller hvis den ikke vil godtage &&, så skriv hver af dem en af gangen, vent på
      åbn localhost:5003    
 
 
+--Oplever du problemer lige pludseligt efter mange ganges retry, slet da image's i docker desktop og kør det igen
+_____________________________________________________________
 JUST NOTES:
 HUSK at skriv
      git checkout dev 
