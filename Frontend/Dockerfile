@@ -4,7 +4,6 @@ FROM python:3.12-slim
 
 WORKDIR /app
 #kopieer mine filer over til arbejdsmappen på den virtuelle maskine
-#sørger lige for at requirements.txt er i denne mappe 
 
 # Installer nødvendige systempakker
 COPY requirements.txt .
@@ -12,13 +11,8 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 COPY . .
-#kopiere ind i app-mappen på linux computeren 
 
-CMD ["streamlit", "run", "cath.py", "--server.port=5000", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "app.py", "--server.port=5000", "--server.address=0.0.0.0"]
 
 
-#terminal for at bygge image: docker build -t dataservice .
-    #det virker kun hvis du har åbnet docker appen
-#terminal for at køre container: docker run -p 5001:5000 dataservice
-#-p 5001:5000 betyder at den skal mappe port 5001 på min computer til port 5000 på den virtuelle maskine
 

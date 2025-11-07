@@ -1,36 +1,28 @@
 import streamlit as st
+from PIL import Image
+
 from management import vis_management_side
+from styling import use_styling
 
-# Baggrundsfarve og logo-positionering
-st.markdown("""
-    <style>
-    .stApp {
-        background-color: #f4efeb;
-    }
-    .logo {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        z-index: 1;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
-# Logo i øverste højre hjørne
-st.markdown('<div class="logo"><img src="kongArthurLogo.jpg" width="120"></div>', unsafe_allow_html=True)
-
-# Titel med farve
-st.markdown("<h1 style='color:#a66a0a;'>Hotel Kong Arthur</h1>", unsafe_allow_html=True)
+st.header("Hotel Kong Arthur")
+st.divider()
 
 # Sidebar-menu
 st.sidebar.title("Navigation")
-valg = st.sidebar.radio("Vælg en side:", ["Forside", "Management"])
+image = Image.open("kongArthurLogo.png")
+st.sidebar.image(image, width=120)
+valg = st.sidebar.radio("Vælg en side:", ["Forside", "Graf overblik"])
 
 # Forside
 if valg == "Forside":
-    st.markdown("<h2 style='color:#a66a0a;'>Hotel Kong Arthur Management System</h2>", unsafe_allow_html=True)
-    st.write("Velkommen til forsiden!")
+    st.markdown("<h2 >Hotel Kong Arthur Management System</h2>", unsafe_allow_html=True)
+    st.write("Ingen nye beskeder")
 
 # Management-side
-elif valg == "Management":
+elif valg == "Graf overblik":
     vis_management_side()
+
+image = Image.open("kongArthurLogo.png")
+
+# CSS
+use_styling()

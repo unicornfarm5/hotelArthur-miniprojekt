@@ -6,13 +6,15 @@ HOW TO RUN WITH DOCKER
 skriv i terminalen i roden af projektet
      docker-compose down && docker-compose build && docker-compose up -d
 
-eller hvis den ikke vil godtage &&, så skriv hver af dem en af gangen, vent på at arbejedet er færdigt før du skriver den næste
+eller hvis den ikke vil godtage &&, så skriv kommandoerne en af gangen, vent på at arbejedet er færdigt før du skriver den næste
      docker-compose build
      docker-compose up -d
 
-     åbn localhost:5003    
+- åbn localhost:5003    
 
 
+--Oplever du problemer lige pludseligt efter mange retries, slet da image's i docker desktop og kør det igen
+_____________________________________________________________
 JUST NOTES:
 HUSK at skriv
      git checkout dev 
