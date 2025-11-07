@@ -17,7 +17,8 @@ def import_excel_to_db(filename):
 
     print(f"Importerede {len(df)} rækker fra {filename}")
 
-import_excel_to_db("DataService/data.xlsx")
+if not DB_Hotel.exists():
+    import_excel_to_db("data.xlsx")
 
 conn = sqlite3.connect(DB_Hotel)
 print(pd.read_sql_query("SELECT * FROM hotelData", conn))

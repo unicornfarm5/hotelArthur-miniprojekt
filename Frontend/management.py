@@ -36,3 +36,5 @@ def vis_management_side():
 
     # Billede
     st.image("OverviewGraf.png", caption="Overview Grafik")
+
+   

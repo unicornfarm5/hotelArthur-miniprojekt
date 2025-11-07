@@ -14,3 +14,8 @@ HOW TO PULL IN VS CODE
 HUSK at skriv
      git checkout dev 
 for at være i dev branch
+
+HOW TO RUN WITH DOCKER
+- åbn docker desktop
+skriv i terminalen i roden af projektet
+     docker-compose down && docker-compose build && docker-compose up -d

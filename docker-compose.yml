@@ -1,21 +1,19 @@
-version: '3.8'
 
 services:
-  frontend:
-    build: ./Frontend        # mappen hvor Dockerfile til Frontend ligger
-    container_name: frontend    # bare navn på containeren til docker desktop
-    ports:
-      - "5003:5000"    # værtsport 5003 -> containerport 5000
-    depends_on:
-      # - navn-på-andet-den-snakker-med 
-
-  
   dataservice:
     build: ./DataService
     container_name: dataservice
     ports:
-      - "5004:5000"    
-
+      - "5004:5000"  
+    volumes:
+      - ./DataService/data.xlsx:/app/data.xlsx  
+  frontend:
+    build: ./Frontend        # mappen hvor Dockerfile til Frontend ligger
+    container_name: frontend    # bare navn på containeren til docker desktop
+    ports:
+      - "5003:5000"    # min pc 5003 -> containerport 5000
+    depends_on:
+      - dataservice
 
 #kør med 
 #docker compose up -d --build

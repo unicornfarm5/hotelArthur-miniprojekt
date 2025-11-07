@@ -6,12 +6,7 @@ WORKDIR /app
 #kopieer mine filer over til arbejdsmappen på den virtuelle maskine
 #sørger lige for at requirements.txt er i denne mappe 
 
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    cmake \
-    python3-dev \
-    && rm -rf /var/lib/apt/lists/*
-
+# Installer nødvendige systempakker
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
@@ -19,7 +14,8 @@ RUN pip install -r requirements.txt
 COPY . .
 #kopiere ind i app-mappen på linux computeren 
 
-CMD ["python", "main.py"] 
+CMD ["streamlit", "run", "streamlit_grap.py", "--server.port=5000", "--server.address=0.0.0.0"]
+
 
 #terminal for at bygge image: docker build -t dataservice .
     #det virker kun hvis du har åbnet docker appen
