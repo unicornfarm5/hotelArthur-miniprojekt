@@ -8,14 +8,11 @@ services:
     volumes:
       - ./DataService/data.xlsx:/app/data.xlsx  
   frontend:
-    build: ./Frontend        # mappen hvor Dockerfile til Frontend ligger
-    container_name: frontend    # bare navn på containeren til docker desktop
+    build: ./Frontend       
+    container_name: frontend    # navn på containeren til docker desktop
     ports:
-      - "5003:5000"    # min pc 5003 -> containerport 5000
+      - "5003:5000"    # din pc 5003 -> containerport 5000
     volumes:
-      - ./Frontend:/app    # mount hele frontend mappen til /app i containeren
+      - ./Frontend:/app  
     depends_on:
       - dataservice
-
-#kør med 
-#docker compose up -d --build
