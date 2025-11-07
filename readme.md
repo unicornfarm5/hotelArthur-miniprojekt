@@ -1,21 +1,28 @@
-For at køre koden skal du starte med at importere tingene fra requirements.txt filerne
-
-skriv i terminalen:
-
-cd DataService/
-pip install -r requirements.txt
-
-for at importere dataServices requirements yay
-
-
-
-HOW TO PULL IN VS CODE
-     git pull
-HUSK at skriv
-     git checkout dev 
-for at være i dev branch
+For at køre siden skal du have docker desktop
 
 HOW TO RUN WITH DOCKER
 - åbn docker desktop
+
 skriv i terminalen i roden af projektet
      docker-compose down && docker-compose build && docker-compose up -d
+
+eller hvis den ikke vil godtage &&, så skriv hver af dem en af gangen, vent på at arbejedet er færdigt før du skriver den næste
+     docker-compose build
+     docker-compose up -d
+
+     åbn localhost:5003    
+
+
+JUST NOTES:
+HUSK at skriv
+     git checkout dev 
+for at være i dev branch inden nogen laver noget lol
+
+HOW TO PULL IN VS CODE
+     git pull
+
+HOW TO PUSH IN VS CODE
+     git push
+
+
+      
