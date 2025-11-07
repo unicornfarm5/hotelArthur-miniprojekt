@@ -14,7 +14,7 @@ RUN pip install -r requirements.txt
 COPY . .
 #kopiere ind i app-mappen på linux computeren 
 
-CMD ["streamlit", "run", "streamlit_grap.py", "--server.port=5000", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "cath.py", "--server.port=5000", "--server.address=0.0.0.0"]
 
 
 #terminal for at bygge image: docker build -t dataservice .
